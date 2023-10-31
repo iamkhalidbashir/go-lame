@@ -1,9 +1,10 @@
 package examples
 
 import (
-	"os"
 	"io"
-	"github.com/sunicy/go-lame"
+	"os"
+
+	"github.com/JoeFranks1993/go-lame"
 )
 
 func WavToMp3(wavFileName, mp3FileName string) {
