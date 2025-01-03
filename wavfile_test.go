@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/JoeFranks1993/go-lame/compare"
+	"github.com/iamkhalidbashir/go-lame/compare"
 )
 
 func Test_ReadWavHeader(t *testing.T) {
